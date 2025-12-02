@@ -1,1 +1,1 @@
---platform=linux/arm64 openeuler/openeuler:22.03
+--platform=linux/arm64 rancher/mirrored-flannelcni-flannel:v0.20.2
