@@ -1,1 +1,1 @@
---platform=linux/arm64 flowiseai/flowise:3.0.12
+--platform=linux/arm64 openeuler/openeuler:22.03
